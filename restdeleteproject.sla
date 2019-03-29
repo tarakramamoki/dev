@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogictrial"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "restdeleteproject"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "6f3e6e685aeb1163e0762544d5ec0bbcd18320eb0c66a9f7a98ab809efec4d00",
+                "key": "account-cloud-managed-5a20a5c1f952e907308b2e59-2017-12-01T00:43:55-552216+00:00",
+                "sym_iv": "OHnmagiXzrZU6qpII4eMBQ==",
+                "sym_key": "bhMRpu16ngtUns5v/YupCkBj3hSrPztKQ6rPtUpewyMZyk+JkA2tNcSDlO4myFKXFvjMCxivFE/r6gbql8dEauQPWdJDQE1e3Nj4PrVPFAYjFUWpVofObeTa/dKIvb7/KpWeuxosU2lH2rXz0OpQrUGu5UBIbP+2Z9JA7wse+h/YjXbMMNGWfQaK/d16lyyEve5jtl0A01xaefzMq4Vtul0dP/JZiGIc63GSJcfWOylFIa6RoGpACBOUKfjjdeMbhsiMxJoyPefkgEoVUh5ymBDLASnY/dC01cZPcbw0Oz/mI8ZDJDgZDcOy+m7yyaNVvpPpAeQSOzS3kVAPP46TlQ==",
+                "value": "s5+0EoHRjFc1IRiWxMucGg=="
+            },
+            "username": {
+                "value": "taraka-rama.battala-venkata@dxc.com"
+            }
+        },
+        "view_serial": 100
+    }
+}
